@@ -1,4 +1,4 @@
-# React starter
+# This React Starter project is deprecated. Please use [React Boilerplate](https://github.com/nordsoftware/react-boilerplate) instead.
 
 [![Code Climate](https://codeclimate.com/github/nordsoftware/react-starter/badges/gpa.svg)](https://codeclimate.com/github/nordsoftware/react-starter)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nordsoftware/react-starter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nordsoftware/react-starter/?branch=master)
